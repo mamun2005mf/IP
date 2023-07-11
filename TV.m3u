@@ -42,10 +42,6 @@ http://bd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
 http://bd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1,SATV
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1,Gazi TV HD 1
-http://103.102.27.173/live/tvfeed1001/index.m3u8
-#EXTINF:-1,MAASRANGA TV official
-http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
 #EXTINF:-1,Rongeen tv
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8
 #EXTINF:-1,ATN Bangla
@@ -54,8 +50,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 http://208.86.19.13:81/514.stream/index.m3u8
 #EXTINF:-1,Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1,Iqra Bangla
-https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 #EXTINF:-1,Pen TV
 http://iptvbd.jagobd.com:1931/live-orgin/boulive.stream/chunks.m3u8
 #EXTINF:-1,Nandan TV
