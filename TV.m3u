@@ -1,4 +1,22 @@
 
+######### Bangladeshi ######
+#EXTINF:-1,Jamuna TV
+http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1,Jamuna News
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+
+#EXTINF:-1,RTV HD
+http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8#EXTINF:-1,Deepto TV
+https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF:-1,Deepto TV HD
+http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF:-1,Boishakhi TV
+http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8#EXTINF:-1,Banglavision HD
+http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
+#EXTINF:-1,INDEPENDENT_HD
+https://tempe.jagobd.com:444/live-orgin/independent-8-org.stream/chunks.m3u8
+#EXTINF:-1,DBC_NEWS_HD
+https://tempe.jagobd.com:444/live-orgin/dbcnews.stream_480p/chunks.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 #EXTINF:-1,6.Bangla TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
@@ -12,6 +30,52 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:-1,30.Somoy TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1,ATN Islamic TV
+http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
+#EXTINF:-1,Asian TV
+http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
+#EXTINF:-1,MY TV
+http://bd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
+#EXTINF:-1,SATV(Jagobd)
+http://bd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
+#EXTINF:-1,SATV
+http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
+#EXTINF:-1,Gazi TV HD 1
+http://103.102.27.173/live/tvfeed1001/index.m3u8
+#EXTINF:-1,MAASRANGA TV official
+http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
+#EXTINF:-1,Rongeen tv
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8
+#EXTINF:-1,ATN Bangla
+http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1,Deshi TV
+http://208.86.19.13:81/514.stream/index.m3u8
+#EXTINF:-1,Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1,Iqra Bangla
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
+#EXTINF:-1,Pen TV
+http://iptvbd.jagobd.com:1931/live-orgin/boulive.stream/chunks.m3u8
+#EXTINF:-1,Nandan TV
+https://web.nandansyst.com/hls/nandan.m3u8
+#EXTINF:-1,Varendra TV
+http://iptvbd.jagobd.com:1931/live-orgin/varendratv.stream/chunks.m3u8
+#EXTINF:-1,Colors Bangla HD
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+#EXTINF:-1,Channel S UK
+http://208.86.19.13:81/519.stream/index.m3u8
+#EXTINF:-1,C MOVOIES
+http://208.86.19.13:81/22.stream/index.m3u8
+#EXTINF:-1,Sony ATT
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#EXTINF:-1,Khusboo Bangla
+http://idvd.multitvsolution.com/idvo/khushboo_540p.m3u8
+#EXTINF:-1,Anando Tv
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+#EXTINF:-1,Colors HD
+http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
+#EXTINF:-1,ARY DIGITAL (PK)
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/329
 #EXTINF:-1,71.Nat Geo UAE
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1,86.Cartoon Network
@@ -26,8 +90,17 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6626/index.m3u8
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1,CNN International Europe (720p)
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-
+#EXTINF:-1,MY CINEMA
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+#EXTINF:-1,SUPER HD
+http://142.132.136.139:8000/play/a003/index.m3u8
+#EXTINF:-1,ROCK ACTION
+http://210.210.155.37/dr9445/h/h15/index.m3u8
 ############## Documentary ###################
+#EXTINF:-1,Wild EARTH
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:-1,NASA TV Media (720p)
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1,Travel XP (720p)
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,Pluto TV Animals (England) (720p)
@@ -44,9 +117,21 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4c
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1,Pluto TV Sports (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-
-
+############## Cartoon TV #################
+#EXTINF:-1,LoLo TV (576p)
+https://venera.greenhosting.ru/LoLoLV/video.m3u8
+#EXTINF:-1,Beano TV (720p)
+https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Cartoon Network (Portuguese)
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+#EXTINF:-1,Cartoonito (Portuguese)
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+#EXTINF:-1,Gospel Cartoon (360p)
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1,Rakuten Family UK (720p)
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,Pluto TV Nick Jr. Club (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 ###############Indian Channel##############
 #EXTINF:-1,9XM (480p)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
@@ -74,7 +159,6 @@ http://183.89.246.119:8881/play/a08o/index.m3u8
 http://183.89.246.119:8881/play/a08l/index.m3u8
 #EXTINF:-1,Zing! (576p)
 http://183.89.246.119:8881/play/a09a/index.m3u8
-
 ######## Pakistani ###############
 #EXTINF:-1,Discover Pakistan (1080p)
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
@@ -88,31 +172,13 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 https://ythls.onrender.com/channel/UCMfwlaPLGMn44BKvHv15yzA.m3u8
 #EXTINF:-1,Zindagi TV (576p) [Not 24/7]
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
-
-
-
-############## Cartoon TV #################
-#EXTINF:-1,LoLo TV (576p)
-https://venera.greenhosting.ru/LoLoLV/video.m3u8
-#EXTINF:-1,Cartoon Network (Portuguese)
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
-#EXTINF:-1,Cartoonito (Portuguese)
-https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
-#EXTINF:-1,Gospel Cartoon (360p)
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-#EXTINF:-1,Rakuten Family UK (720p)
-https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1,Pluto TV Nick Jr. Club (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-
+#EXTINF:-1,Qatar TV
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 ############### Music Video ##############
 #EXTINF:-1,Mūzikas Video Kanāls (720p)
 https://stream.onlive-media.com/live/streams/mvk.m3u8
 #EXTINF:-1,Canale 7 (480p)
 http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
-
 ######## Others TV #############
 #EXTINF:-1,Italia 2 (480p) [Geo-blocked]
 https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
@@ -121,6 +187,8 @@ http://89.254.128.5:22280/8tv_hd/index.m3u8
 #EXTINF:-1,Re TV (1080p)
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
 ############## Movie ####################
+#EXTINF:-1,MBC Channel 1
+https://shls-mbc1na-prod-dub.shahid.net:443/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_2.m3u8
 #EXTINF:-1,Adesso TV (720p)
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1,Gospel Movie TV (360p)
@@ -131,9 +199,11 @@ https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlis
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
 #EXTINF:-1,Lazio TV (576p)
 https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8
-
-
 ##################Sports#################
+#EXTINF:-1,EDGESport (1080p)
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+#EXTINF:-1,Lax Sports Network TV (720p)
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1,All Sports (720p)
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1,ACI Sport TV (1080p)
@@ -150,4 +220,3 @@ https://livetr.teleromagna.it/mia/live/playlist.m3u8
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 #EXTINF:-1,One Golf (720p)
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-
