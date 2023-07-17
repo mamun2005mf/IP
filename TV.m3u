@@ -1,6 +1,10 @@
 ######### Bangladeshi ######
-#EXTINF:-1, TSports
-https://m3u-editor.com/serve/tsportsbdauto/88026685.m3u8
+#EXTINF:-1,Boishakhi TV
+http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1,Banglavision
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+#EXTINF:-1,T Sports
+https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1,Gazi
 http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1,ATN News
@@ -9,6 +13,32 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1,Jamuna News
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1,Zee Bangla HD
+http://172.16.29.250/hls/zeebanglahd.m3u8
+#EXTINF:-1,Star Jalsha HD
+http://172.16.29.250/hls/starjalsha.m3u8
+#EXTINF:-1,Zee Bangla Cinema
+http://172.16.29.250/hls/zee-bangla-cinema.m3u8
+#EXTINF:-1,Star Jalsha Movies HD
+http://172.16.29.250/hls/jalshamovies.m3u8
+#EXTINF:-1,Colors Bangla HD
+http://172.16.29.250/hls/colorsbangla.m3u8
+#EXTINF:-1,Colors Bangla Cinema
+http://172.16.29.250/hls/colore-bangla-cinema.m3u8
+#EXTINF:-1,Enterr10 Bangla
+http://172.16.29.250/hls/enterr10.m3u8
+#EXTINF:-1,Khushboo HD
+http://172.16.29.250/hls/khushboo.m3u8
+#EXTINF:-1,Sun Bangla HD
+http://172.16.29.250/hls/sunbangla.m3u8
+#EXTINF:-1,Sony AaTH HD
+http://172.16.29.250/hls/Sony_Aath.m3u8
+#EXTINF:-1,ChannelI HD
+http://172.16.29.250/hls/channeli.m3u8
+#EXTINF:-1,Masranga HD
+http://172.16.29.250/hls/masranga.m3u8
+#EXTINF:-1,Somoy HD
+http://172.16.29.250/hls/somoy.m3u8
 #EXTINF:-1,ATN Music
 http://tempskyview.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 #EXTINF:-1,RTV HD
