@@ -96,7 +96,13 @@ http://210.210.155.37/uq2663/h/h192/index.m3u8
 http://142.132.136.139:8000/play/a003/index.m3u8
 #EXTINF:-1,ROCK ACTION
 http://210.210.155.37/dr9445/h/h15/index.m3u8
+#EXTINF:-1,RAI Italia
+http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 ############## Documentary ###################
+#EXTINF:-1,Biznet Adventure
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
+#EXTINF:-1,Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1,Wild EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1,NASA TV Media (720p)
